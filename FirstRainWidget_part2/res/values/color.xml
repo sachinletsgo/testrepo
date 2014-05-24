@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="header_color">#0a2c3f</color> 
+     <color name="headerText_blue">#256EB8</color>
+     <color name="black">#000000</color>
+      <color name="lightblack">#000010</color>
+     <color name="white">#FFFFFF</color>
+      <color name="lightwhite">#F2F2F2</color>
+     <color name="tranprantwhite">#80FFFFFF</color>
+   <!-- <color name="headerblue"> #1e76bc</color>
+    <color name="actionbar_bg"> #0a2c3f</color>  -->
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FirstRainWidget2</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="title">HTC Corp</string>
+    <string name="monitor_header"> HTC One M8 mini’s Sense 6 to Lack Important Multimedia Features</string>
+    <string name="monitor_news">Soon after the ofﬁcial unveiling of the HTC One M8 smartphone, Taiwanese mobile phone maker HTC Corporation 
+was rumored to plan the release of a smaller flavor of the device, and some more info it is now available. Supposedly 
+called HTC One M8 mini, the phone is said to arrive on shelves with the Sense 6.0 UI loaded on top.
+</string>
+    <string name="monitor_date">Softpedia 14-May-2014</string>
+
+</resources>
