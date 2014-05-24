@@ -17,6 +17,7 @@ public class Hello extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_hello);
 		System.out.println("test me");
+		System.out.println("test me 2");
 	}
 	
 	
